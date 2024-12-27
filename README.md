@@ -39,6 +39,7 @@ GROUP BY
 ORDER BY 
   language_count DESC
 LIMIT 10;
+```
 Key Learnings 📚
 Encountered and resolved an array struct error by using UNNEST() to flatten nested data.
 Improved skills in handling hierarchical datasets and aggregation queries in BigQuery.
@@ -56,7 +57,7 @@ C
 C++
 Visualizations 📈
 
-(image goes here.)
+[(image)](https://github.com/iamatinad/data_analytics_projects/blob/main/top_10_github_languages.jpg)
 
 Tools Used 🛠️
 BigQuery - For querying datasets.
@@ -65,7 +66,7 @@ Markdown/GitHub - For project documentation and sharing.
 Adobe Acrobat - To convert pdf to jpg
 Notion - to take notes
 
-**Full PDF Version:** [Download Visualization](pdf goes here)
+**Full PDF Version:** [Download Visualization]([pdf goes here](https://github.com/iamatinad/data_analytics_projects/blob/main/top_10_github_languages.pdf)
 
 
 Author 📝
