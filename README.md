@@ -75,6 +75,7 @@ Notion - to take notes
 
 
 ### Author 📝
-Danita Lamptey
-Date: 27/12/2024
-email : lamptey.danita@gmail.com
+-**Danita Lamptey**
+- Date: 27/12/2024
+
+📫 Email: lamptey.danita@gmail.com
