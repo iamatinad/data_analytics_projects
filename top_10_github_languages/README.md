@@ -70,7 +70,7 @@ Markdown/GitHub - For project documentation and sharing.
 Adobe Acrobat - To convert pdf to jpg
 Notion - to take notes
 
-**Full PDF Version:** [Download Visualization](https://github.com/iamatinad/data_analytics_projects/blob/main/top_github_languages.pdf)
+**Full PDF Version:** [Download Visualization](https://github.com/iamatinad/data_analytics_projects/blob/main/top_10_github_languages/top_github_languages.pdf)
 
 
 
