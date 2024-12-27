@@ -59,8 +59,8 @@ C++
 
 ## Visualizations 📈
 
-[Top 10 GitHub Languages](https://github.com/iamatinad/data_analytics_projects/blob/main/top_10_github_languages.jpg)
-  <img src="https://github.com/iamatinad/data_analytics_projects/blob/main/top_10_github_languages.jpg" alt="Top Languages">
+[Top 10 GitHub Languages](https://github.com/iamatinad/data_analytics_projects/blob/main/top_10_github_languages/top_10_github_languages.jpg)
+  <img src="https://github.com/iamatinad/data_analytics_projects/blob/main/top_10_github_languages/top_10_github_languages.jpg" alt="Top Languages">
 
 
 ## Tools Used 🛠️
