@@ -46,20 +46,22 @@ Improved skills in handling hierarchical datasets and aggregation queries in Big
 
 ## Insights 🧐
 Top 10 Languages:
-JavaScript
-CSS
-HTML
-Shell
-Python
-Ruby
-Java
-PHP
-C
+JavaScript,
+CSS,
+HTML,
+Shell,
+Python,
+Ruby,
+Java,
+PHP,
+C,
 C++
 
 ## Visualizations 📈
 
 [Top 10 GitHub Languages](https://github.com/iamatinad/data_analytics_projects/blob/main/top_10_github_languages.jpg)
+  <img src="https://github.com/iamatinad/data_analytics_projects/blob/main/top_10_github_languages.jpg" alt="Top Languages">
+
 
 ## Tools Used 🛠️
 BigQuery - For querying datasets.
