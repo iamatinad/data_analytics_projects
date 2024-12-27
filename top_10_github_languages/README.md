@@ -40,9 +40,10 @@ ORDER BY
   language_count DESC
 LIMIT 10;
 ```
-## Key Learnings 📚
-Encountered and resolved an array struct error by using UNNEST() to flatten nested data.
-Improved skills in handling hierarchical datasets and aggregation queries in BigQuery.
+## Key Learnings 📚  
+- Encountered and resolved an array struct error by using UNNEST() to flatten nested data.  
+- Improved skills in handling hierarchical datasets and aggregation queries in BigQuery.
+
 
 ## Insights 🧐
 Top 10 Languages:
