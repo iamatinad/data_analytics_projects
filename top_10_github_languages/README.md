@@ -40,9 +40,10 @@ ORDER BY
   language_count DESC
 LIMIT 10;
 ```
-## Key Learnings 📚
-Encountered and resolved an array struct error by using UNNEST() to flatten nested data.
-Improved skills in handling hierarchical datasets and aggregation queries in BigQuery.
+## Key Learnings 📚  
+- Encountered and resolved an array struct error by using UNNEST() to flatten nested data.  
+- Improved skills in handling hierarchical datasets and aggregation queries in BigQuery.
+
 
 ## Insights 🧐
 Top 10 Languages:
@@ -59,18 +60,19 @@ C++
 
 ## Visualizations 📈
 
-[Top 10 GitHub Languages](https://github.com/iamatinad/data_analytics_projects/blob/main/top_10_github_languages.jpg)
-  <img src="https://github.com/iamatinad/data_analytics_projects/blob/main/top_10_github_languages.jpg" alt="Top Languages">
+[Top 10 GitHub Languages](https://github.com/iamatinad/data_analytics_projects/blob/main/top_10_github_languages/top_10_github_languages.jpg)
+  <img src="https://github.com/iamatinad/data_analytics_projects/blob/main/top_10_github_languages/top_10_github_languages.jpg" alt="Top Languages">
 
 
-## Tools Used 🛠️
-BigQuery - For querying datasets.
-Looker Studio - For creating visualizations.
-Markdown/GitHub - For project documentation and sharing.
-Adobe Acrobat - To convert pdf to jpg
-Notion - to take notes
+## Tools Used 🛠️  
+BigQuery - For querying datasets.  
+Looker Studio - For creating visualizations.  
+Markdown/GitHub - For project documentation and sharing.  
+Adobe Acrobat - To convert PDF to JPG.
+Notion - To take notes
 
-**Full PDF Version:** [Download Visualization](https://github.com/iamatinad/data_analytics_projects/blob/main/top_github_languages.pdf)
+
+**Full PDF Version:** [Download Visualization](https://github.com/iamatinad/data_analytics_projects/blob/main/top_10_github_languages/top_github_languages.pdf)
 
 
 
