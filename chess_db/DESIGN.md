@@ -6,7 +6,7 @@ Video overview: <https://youtu.be/H2bM19teFm4>
 
 ## Scope
 
-* The purpose of this database is to manage and retrieve detailed information about chess players, their games, parcipation in tournaments and statistics. As such, included in the database's scope is:
+* The purpose of this database is to manage and retrieve detailed information about chess players, their games, partipation in tournaments and statistics. As such, included in the database's scope is:
 
 * Users, which includes basic identifying information.
 * Players, which includes information about the players such as first_name.
